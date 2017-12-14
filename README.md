@@ -9,9 +9,9 @@
 5. Слева окна на главной странице должен быть закреплённый банер с параметрами выбора фильтров. 
 
 # Роли:
-* РП     | [Бедретдинова А.Ю.](https://stankin.github.io/inet-2017/idm-17-01/Bedretdinova/index.html)
-* АД     | [Верещагин В.Г](https://stankin.github.io/inet-2017/idm-17-01/Vereshchagin/index.html)
-* БА     | [Кузьменко И.А.](https://stankin.github.io/inet-2017/idm-17-01/Kuzmenko/index.html)
-* НИ, ВН | [Махмутов И.Ш.](https://stankin.github.io/inet-2017/idm-17-01/Mahmutov/HTML/index.html)
-* СП, КО | [Мурзайкина О.А.](https://stankin.github.io/inet-2017/idm-17-01/Murzaykina/index.html)
-* ПП     | [Смирнова И.А.](https://stankin.github.io/inet-2017/idm-17-01/Smirnova/index.html)
+* АД, ПП | [Бедретдинова А.Ю.](https://stankin.github.io/inet-2017/idm-17-01/Bedretdinova/index.html)
+* ВН     | [Верещагин В.Г](https://stankin.github.io/inet-2017/idm-17-01/Vereshchagin/index.html)
+* НИ     | [Кузьменко И.А.](https://stankin.github.io/inet-2017/idm-17-01/Kuzmenko/index.html)
+* СП     | [Махмутов И.Ш.](https://stankin.github.io/inet-2017/idm-17-01/Mahmutov/HTML/index.html)
+* БА, КО | [Мурзайкина О.А.](https://stankin.github.io/inet-2017/idm-17-01/Murzaykina/index.html)
+* РП     | [Смирнова И.А.](https://stankin.github.io/inet-2017/idm-17-01/Smirnova/index.html)
